@@ -35,7 +35,7 @@ https://encriptador-texto-alura-phi.vercel.app/
 </p>
 <h1>Autores y guías del proyecto</h1>
 <p>
-  - Jeanmarie Quijada - Desarrolladora e Instructor en Alura LATAM
-  - Génesys Rondón - Desarrolladora e Instructora en Alura LATAM
-  - Ayair Bernal Ramos - Desarrollador
+- Jeanmarie Quijada - Desarrolladora e Instructor en Alura LATAM
+- Génesys Rondón - Desarrolladora e Instructora en Alura LATAM
+- Ayair Bernal Ramos - Desarrollador
 </p>
